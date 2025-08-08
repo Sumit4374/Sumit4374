@@ -39,7 +39,7 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
 
 ## 🔎 Quick Navigation
 - Algorithms & DSA
-- Skills (icons)
+- Skills
 - Highlights
 - Roadmap
 - Stats & Activity
