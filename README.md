@@ -61,7 +61,7 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
 
 ---
 
-## 🔧 Skills (with icons)
+## 🔧 Skills
 
 <!-- Adjust heights to your taste -->
 
