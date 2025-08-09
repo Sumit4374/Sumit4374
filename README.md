@@ -65,6 +65,15 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
 
 <!-- Adjust heights to your taste -->
 
+### Languages
+<p>
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+</p>
+
 ### Core Backend
 <p>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
@@ -72,6 +81,7 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" />
+</p>
 
 ### Frontend
 <p>
