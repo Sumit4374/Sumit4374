@@ -107,7 +107,7 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
 ## ✨ Highlights
 
 - Backend-first thinker: design RESTful APIs with clear contracts and validation
-- Frontend comfort: build modern, responsive UIs with React + TypeScript
+- Frontend comfort: build modern, responsive UIs with React + Javascript 
 - Database-savvy: schema design, relationships, efficient queries in MySQL
 - Testing mindset: unit/integration tests with JUnit and MockMVC
 - Collaboration: clean Git history, meaningful PRs, readable code and docs
