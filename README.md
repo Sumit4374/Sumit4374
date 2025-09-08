@@ -1,4 +1,3 @@
-
 <!--
 **Sumit4374/Sumit4374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,7 @@ This profile README is optimized for recruiters: concise intro, strong visuals, 
 Aspiring Java Developer • Spring Boot Enthusiast • Full‑Stack Builder
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?lines=Aspiring+Java+Developer;Spring+Boot+Enthusiast;React+%2B+TypeScript+Frontend;DSA+on+LeetCode;IoT:+Arduino+%26+ESP32-CAM;Always+learning+%26+building!&center=true&width=900&height=45&color=00C853&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?lines=Aspiring+Java+Developer;Spring+Boot+Enthusiast;React+%2B+TypeScript+Frontend;DSA+on+LeetCode;IoT:+Arduino+%26+ESP32-CAM;Always+learning+%26+bu[...]" />
 
 <!-- Badges -->
 <p>
@@ -28,7 +27,7 @@ Aspiring Java Developer • Spring Boot Enthusiast • Full‑Stack Builder
 
 </div>
 
-I love building reliable backends with Java and Spring Boot, and modern, responsive UIs with React and TypeScript. I also enjoy tinkering with hardware—Arduino and ESP32‑CAM projects keep me curious. I'm actively learning and open to opportunities as a Java Developer.
+I love building reliable backends with Java and Spring Boot, and modern, responsive UIs with React and TypeScript. I also enjoy tinkering with hardware—Arduino and ESP32‑CAM projects keep me c[...]  
 
 - 💼 Open to: Java Developer (Intern/Junior) roles
 - 🌱 Learning: Spring Security (JWT), Spring Data JPA, Testing (JUnit/MockMVC), Docker, CI/CD
@@ -72,6 +71,7 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-Spring_Cloud-00AEEF?style=for-the-badge" />
 
 ### Frontend
 <p>
@@ -166,4 +166,3 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
 If you think I’d be a good fit for your team or project, let’s talk!
 
 </div>
-
