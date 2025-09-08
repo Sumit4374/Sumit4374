@@ -27,7 +27,7 @@ Aspiring Java Developer • Spring Boot Enthusiast • Full‑Stack Builder
 
 </div>
 
-I love building reliable backends with Java and Spring Boot, and modern, responsive UIs with React and TypeScript. I also enjoy tinkering with hardware—Arduino and ESP32‑CAM projects keep me c[...]  
+I love building reliable backends with Java and Spring Boot, and modern, responsive UIs with React and TypeScript. I also enjoy tinkering with hardware—Arduino and ESP32‑CAM projects keep me curious. I'm actively learning and open to opportunities as a Java Developer. 
 
 - 💼 Open to: Java Developer (Intern/Junior) roles
 - 🌱 Learning: Spring Security (JWT), Spring Data JPA, Testing (JUnit/MockMVC), Docker, CI/CD
