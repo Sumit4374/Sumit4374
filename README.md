@@ -32,7 +32,7 @@ I love building reliable backends with Java and Spring Boot, and modern, respons
 - 💼 Open to: Java Developer (Intern/Junior) roles
 - 🌱 Learning: Spring Security (JWT), Spring Data JPA, Testing (JUnit/MockMVC), Docker, CI/CD
 - 🧪 Interests: REST APIs, Microservices, Cloud basics, Clean architecture
-- 🤖 Hardware: Arduino, ESP32‑CAM
+- 🤖 Hardware: Arduino, ESP32‑CAM, ESP8266-Wifi Module
 
 ---
 
