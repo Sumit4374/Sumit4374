@@ -15,7 +15,7 @@ This profile README is optimized for recruiters: concise intro, strong visuals, 
 Aspiring Java Developer • Spring Boot Enthusiast • Full‑Stack Builder
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?lines=Aspiring+Java+Developer;Spring+Boot+Enthusiast;React+%2B+TypeScript+Frontend;DSA+on+LeetCode;IoT:+Arduino+%26+ESP32-CAM+%26+ESP8266;Always+learning+%26+bu[...]" />
+<img src="https://readme-typing-svg.demolab.com?lines=Aspiring+Java+Developer;Spring+Boot+Enthusiast;React+%2B+TypeScript+Frontend;DSA+on+LeetCode;IoT:+Arduino+%26+ESP32-CAM+%26+ESP8266;Always+learning+%26+building" />
 
 <!-- Badges -->
 <p>
