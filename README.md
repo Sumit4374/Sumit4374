@@ -1,168 +1,207 @@
-<!--
-**Sumit4374/Sumit4374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<!--
-Tip: Replace placeholders like your-email and your-LinkedIn before using.
-This profile README is optimized for recruiters: concise intro, strong visuals, and quick links to your skills and activity.
--->
-
 <div align="center">
 
-# Hi, I'm Sumit 👋  
-Aspiring Java Developer • Spring Boot Enthusiast • Full‑Stack Builder
+# Hi, I'm Sumit 👋
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?lines=Aspiring+Java+Developer;Spring+Boot+Enthusiast;React+%2B+TypeScript+Frontend;DSA+on+LeetCode;IoT:+Arduino+%26+ESP32-CAM+%26+ESP8266;Always+learning+%26+building" />
+### Backend Developer in Progress · Java & Spring Boot · Distributed Systems · Full-Stack Development
 
-<!-- Badges -->
+I build backend systems with **Java, Spring Boot, PostgreSQL, Kafka, REST APIs, WebSockets, and microservices**. I also work with React on the frontend and explore DevOps, cybersecurity, IoT, and machine learning through projects.
+
 <p>
-  <img alt="Open to work" src="https://img.shields.io/badge/Open_to_Work-Yes-success?style=for-the-badge" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sumit4374&style=for-the-badge&color=blueviolet" />
-  <a href="https://github.com/Sumit4374?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sumit4374-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/u/SumitKush1323/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-SumitKush1323-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/Sumit4374"><img src="https://img.shields.io/badge/GitHub-Sumit4374-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/u/SumitKush1323/"><img src="https://img.shields.io/badge/LeetCode-SumitKush1323-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sumit4374&style=for-the-badge" />
 </p>
 
 </div>
 
-I love building reliable backends with Java and Spring Boot, and modern, responsive UIs with React and TypeScript. I also enjoy tinkering with hardware—Arduino and ESP32‑CAM projects keep me curious. I'm actively learning and open to opportunities as a Java Developer. 
+---
 
-- 💼 Open to: Java Developer (Intern/Junior) roles
-- 🌱 Learning: Spring Security (JWT), Spring Data JPA, Testing (JUnit/MockMVC), Docker, CI/CD
-- 🧪 Interests: REST APIs, Microservices, Cloud basics, Clean architecture
-- 🤖 Hardware: Arduino, ESP32‑CAM, ESP8266-Wifi Module
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering student at **VIT Pune**
+- 💻 Primarily focused on **backend engineering with Java and Spring Boot**
+- 🧩 Interested in **microservices, distributed systems, messaging systems, and system design**
+- 🌐 Comfortable building full-stack applications with **React + Spring Boot**
+- 🛠️ Building projects to understand how production systems work internally
+- 🔐 Exploring **cybersecurity, networking, and secure application development**
+- ☁️ Learning **DevOps, containerization, CI/CD, and cloud fundamentals**
 
 ---
 
-## 🔎 Quick Navigation
-- Algorithms & DSA
-- Skills
-- Highlights
-- Roadmap
-- Stats & Activity
-- Connect
+## 🧠 Technical Skills
 
----
+### Backend & Distributed Systems
 
-## 🧩 Algorithms & DSA (LeetCode)
+`Java` `Spring Boot` `Spring Cloud` `REST APIs` `Microservices` `Spring Security` `JWT` `WebSockets` `Apache Kafka` `Eureka Service Discovery` `API Gateway`
 
-<p align="center">
-  <a href="https://leetcode.com/u/SumitKush1323/">
-    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/SumitKush1323?theme=dark&font=JetBrains%20Mono&ext=activity,contest&radius=8" />
-  </a>
-</p>
+### Databases & Data
 
-- Solving problems daily to strengthen data structures and algorithms
-- Focus areas: arrays, hashing, two pointers, sliding window, trees/graphs, DP
-- Profile: https://leetcode.com/u/SumitKush1323/
-
----
-
-## 🔧 Skills
-
-<!-- Adjust heights to your taste -->
-
-### Core Backend
-<p>
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" />
-  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-Spring_Cloud-00AEEF?style=for-the-badge" />
+`PostgreSQL` `MySQL` `MongoDB` `JPA / Hibernate` `SQL` `Database Design`
 
 ### Frontend
-<p>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-</p>
 
-### Tools, Platform & DevOps
-<p>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <!-- Using SimpleIcons for consistent contrast across themes -->
-  <img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" height="40" />
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-  <img alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</p>
+`React` `TypeScript` `JavaScript` `Vite` `Tailwind CSS` `HTML` `CSS`
 
-### Hardware / IoT
-<p>
-  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-  <img alt="ESP32-CAM" src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
+### DevOps & Development Tools
+
+`Linux` `Git` `GitHub` `Docker` `Maven` `Postman` `Swagger / OpenAPI` `GitHub Actions` `IntelliJ IDEA` `VS Code`
+
+### Programming & Data Science
+
+`Java` `Python` `C/C++` `Data Structures & Algorithms` `NumPy` `Pandas` `Matplotlib`
+
+### Cybersecurity & Networking
+
+`Nmap` `OpenVAS / GVM` `Network Security` `Vulnerability Assessment` `Linux Security` `TCP/IP` `Port Scanning`
+
+### IoT & Embedded Systems
+
+`ESP32` `ESP8266` `Arduino` `ESP32-CAM` `ThingSpeak` `Sensors` `Embedded Prototyping`
 
 ---
 
-## ✨ Highlights
+## 🚀 Featured Projects
 
-- Backend-first thinker: design RESTful APIs with clear contracts and validation
-- Frontend comfort: build modern, responsive UIs with React + Javascript 
-- Database-savvy: schema design, relationships, efficient queries in MySQL
-- Testing mindset: unit/integration tests with JUnit and MockMVC
-- Collaboration: clean Git history, meaningful PRs, readable code and docs
+### 🧩 GetSocial — Microservices Social Platform
+
+A distributed social-media platform built to explore real-world backend architecture.
+
+- **Backend:** Spring Boot microservices
+- **Architecture:** Eureka service discovery + API Gateway
+- **Messaging:** Apache Kafka
+- **Database:** PostgreSQL
+- **Real-time communication:** WebSockets
+- **Security:** JWT authentication and authorization
+- **Frontend:** React + Vite + Tailwind CSS
+
+**Focus:** service boundaries, asynchronous communication, authentication, API design, and distributed-system concepts.
+
+### ⚙️ MiniKafka — Kafka-Like Messaging System
+
+A Java implementation of core messaging concepts inspired by Apache Kafka.
+
+- Custom producer/consumer architecture
+- Topics, partitions, offsets, and message metadata
+- Concurrent processing and multithreading
+- Custom protocol/message structures
+- Focus on understanding how distributed messaging systems work internally
+
+### 🏥 Healthub / HealthcareAlly
+
+Healthcare-focused application where I contributed to the frontend and worked with the team on the overall application.
+
+- React-based frontend development
+- Healthcare workflow and user-facing interfaces
+- Research work associated with the project
+
+### 📋 Task Manager — MERN Stack
+
+Full-stack task management application built while expanding beyond the Java ecosystem.
+
+- React frontend
+- Node.js + Express backend
+- MongoDB database
+- REST API architecture
+- Authentication and task management
+
+### 🔎 MiniSearchEngine
+
+A Java-based search-engine project focused on understanding indexing, searching, and core data-structure concepts.
 
 ---
 
-## 🧭 Roadmap (what I’m focusing on next)
+## 🧪 Research & Academic Work
 
-- Spring Security with JWT/OAuth2, method-level security
-- Spring Data JPA best practices, pagination, specs, query tuning
-- Testing: JUnit 5, MockMVC, Testcontainers; CI with GitHub Actions
-- API standards: OpenAPI/Swagger, versioning, error handling
-- Dockerizing services; basics of AWS deployment
-- Consistent DSA practice on LeetCode
+- **IEEE CCGE 2026:** Research work on an *ESP32-Based Smart Environmental Monitoring System with Dual Display*.
+- **AIHW 2025:** Contributed to healthcare-focused research work associated with Healthub.
 
 ---
 
-## 📈 Stats & Activity
+## 🧩 DSA & Problem Solving
+
+I regularly practice Data Structures & Algorithms to improve problem-solving and algorithmic thinking.
+
+**Current focus:**
+
+`Arrays` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stacks & Queues` · `Trees` · `Graphs` · `Sorting` · `Dynamic Programming`
 
 <div align="center">
-  
-<!-- Main stats -->
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sumit4374&show_icons=true&theme=react" />
-<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4374&layout=compact&theme=react" />
 
-<!-- Streak -->
-<br/>
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Sumit4374&theme=react&hide_border=false" />
-
-<!-- Activity graph -->
-<br/>
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit4374&theme=react-dark" />
-
-<!-- Trophies -->
-<br/>
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Sumit4374&theme=algolia&row=1&margin-w=10&no-frame=true" />
+<a href="https://leetcode.com/u/SumitKush1323/">
+<img src="https://leetcard.jacoblin.cool/SumitKush1323?theme=dark&font=JetBrains%20Mono&ext=activity,contest&radius=8" alt="LeetCode Stats" />
+</a>
 
 </div>
 
 ---
 
-## 🤝 Let’s connect
+## 🔐 Cybersecurity & Systems
 
-- GitHub: https://github.com/Sumit4374
-- LeetCode: https://leetcode.com/u/SumitKush1323/
-- Email: kusumit437@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sumit-kushwaha-a97238331
-<!-- Add resume/portfolio link if available -->
-<!-- <a href="your-portfolio-link">Portfolio</a> • <a href="your-resume-link">Resume</a> -->
+Alongside software development, I am building practical cybersecurity fundamentals through Linux and networking work.
+
+- Network reconnaissance and port scanning with **Nmap**
+- Vulnerability assessment with **OpenVAS / Greenbone Vulnerability Management**
+- TCP/IP and network fundamentals
+- Linux administration and troubleshooting
+- Security concepts including **Zero Trust Architecture**
+- Interest in application security, authentication, and secure distributed systems
+
+---
+
+## 📡 IoT & Hardware
+
+I also build embedded prototypes using microcontrollers and sensors.
+
+- ESP32 / ESP8266
+- Arduino
+- ESP32-CAM
+- Environmental and motion sensors
+- IoT telemetry with ThingSpeak
+- Smart environment and automation prototypes
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumit4374&show_icons=true&theme=react" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4374&layout=compact&theme=react" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sumit4374&theme=react" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🧭 Current Focus
+
+My current learning path is centered around becoming a stronger backend/software engineer:
+
+- **Spring Security:** JWT, authorization, OAuth2 fundamentals
+- **Spring Data JPA:** pagination, specifications, query optimization
+- **Testing:** JUnit 5, MockMvc, integration testing, Testcontainers
+- **Distributed Systems:** Kafka, concurrency, fault tolerance, service communication
+- **System Design:** scalability, caching, databases, queues, consistency, API design
+- **DevOps:** Docker, CI/CD, Linux, deployment, and cloud fundamentals
+- **Cybersecurity:** application security, networking, vulnerability assessment
+- **DSA:** consistent LeetCode practice
+
+---
+
+## 🤝 Connect
+
+- **GitHub:** [Sumit4374](https://github.com/Sumit4374)
+- **LeetCode:** [SumitKush1323](https://leetcode.com/u/SumitKush1323/)
+- **LinkedIn:** [Sumit Kushwaha](https://www.linkedin.com/in/sumit-kushwaha-a97238331)
+- **Email:** [kusumit437@gmail.com](mailto:kusumit437@gmail.com)
 
 ---
 
 <div align="center">
-  
-“Code, learn, repeat.”  
-If you think I’d be a good fit for your team or project, let’s talk!
+
+### Build → Break → Understand → Improve
 
 </div>
