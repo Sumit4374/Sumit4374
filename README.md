@@ -1,207 +1,329 @@
 <div align="center">
 
-# Hi, I'm Sumit 👋
+# `sumit@github:~$ whoami`
 
-### Backend Developer in Progress · Java & Spring Boot · Distributed Systems · Full-Stack Development
+### **Backend Engineer in Progress**
 
-I build backend systems with **Java, Spring Boot, PostgreSQL, Kafka, REST APIs, WebSockets, and microservices**. I also work with React on the frontend and explore DevOps, cybersecurity, IoT, and machine learning through projects.
+`Java` · `Spring Boot` · `Kafka` · `Microservices` · `System Design` · `Cybersecurity`
 
-<p>
-  <a href="https://github.com/Sumit4374"><img src="https://img.shields.io/badge/GitHub-Sumit4374-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/u/SumitKush1323/"><img src="https://img.shields.io/badge/LeetCode-SumitKush1323-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sumit4374&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+distributed+systems;Learning+how+production+backends+actually+work;Going+deeper+into+cybersecurity;Turning+concepts+into+working+systems" alt="Typing introduction" />
 
-</div>
+<br/>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science & Engineering student at **VIT Pune**
-- 💻 Primarily focused on **backend engineering with Java and Spring Boot**
-- 🧩 Interested in **microservices, distributed systems, messaging systems, and system design**
-- 🌐 Comfortable building full-stack applications with **React + Spring Boot**
-- 🛠️ Building projects to understand how production systems work internally
-- 🔐 Exploring **cybersecurity, networking, and secure application development**
-- ☁️ Learning **DevOps, containerization, CI/CD, and cloud fundamentals**
-
----
-
-## 🧠 Technical Skills
-
-### Backend & Distributed Systems
-
-`Java` `Spring Boot` `Spring Cloud` `REST APIs` `Microservices` `Spring Security` `JWT` `WebSockets` `Apache Kafka` `Eureka Service Discovery` `API Gateway`
-
-### Databases & Data
-
-`PostgreSQL` `MySQL` `MongoDB` `JPA / Hibernate` `SQL` `Database Design`
-
-### Frontend
-
-`React` `TypeScript` `JavaScript` `Vite` `Tailwind CSS` `HTML` `CSS`
-
-### DevOps & Development Tools
-
-`Linux` `Git` `GitHub` `Docker` `Maven` `Postman` `Swagger / OpenAPI` `GitHub Actions` `IntelliJ IDEA` `VS Code`
-
-### Programming & Data Science
-
-`Java` `Python` `C/C++` `Data Structures & Algorithms` `NumPy` `Pandas` `Matplotlib`
-
-### Cybersecurity & Networking
-
-`Nmap` `OpenVAS / GVM` `Network Security` `Vulnerability Assessment` `Linux Security` `TCP/IP` `Port Scanning`
-
-### IoT & Embedded Systems
-
-`ESP32` `ESP8266` `Arduino` `ESP32-CAM` `ThingSpeak` `Sensors` `Embedded Prototyping`
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 GetSocial — Microservices Social Platform
-
-A distributed social-media platform built to explore real-world backend architecture.
-
-- **Backend:** Spring Boot microservices
-- **Architecture:** Eureka service discovery + API Gateway
-- **Messaging:** Apache Kafka
-- **Database:** PostgreSQL
-- **Real-time communication:** WebSockets
-- **Security:** JWT authentication and authorization
-- **Frontend:** React + Vite + Tailwind CSS
-
-**Focus:** service boundaries, asynchronous communication, authentication, API design, and distributed-system concepts.
-
-### ⚙️ MiniKafka — Kafka-Like Messaging System
-
-A Java implementation of core messaging concepts inspired by Apache Kafka.
-
-- Custom producer/consumer architecture
-- Topics, partitions, offsets, and message metadata
-- Concurrent processing and multithreading
-- Custom protocol/message structures
-- Focus on understanding how distributed messaging systems work internally
-
-### 🏥 Healthub / HealthcareAlly
-
-Healthcare-focused application where I contributed to the frontend and worked with the team on the overall application.
-
-- React-based frontend development
-- Healthcare workflow and user-facing interfaces
-- Research work associated with the project
-
-### 📋 Task Manager — MERN Stack
-
-Full-stack task management application built while expanding beyond the Java ecosystem.
-
-- React frontend
-- Node.js + Express backend
-- MongoDB database
-- REST API architecture
-- Authentication and task management
-
-### 🔎 MiniSearchEngine
-
-A Java-based search-engine project focused on understanding indexing, searching, and core data-structure concepts.
-
----
-
-## 🧪 Research & Academic Work
-
-- **IEEE CCGE 2026:** Research work on an *ESP32-Based Smart Environmental Monitoring System with Dual Display*.
-- **AIHW 2025:** Contributed to healthcare-focused research work associated with Healthub.
-
----
-
-## 🧩 DSA & Problem Solving
-
-I regularly practice Data Structures & Algorithms to improve problem-solving and algorithmic thinking.
-
-**Current focus:**
-
-`Arrays` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stacks & Queues` · `Trees` · `Graphs` · `Sorting` · `Dynamic Programming`
-
-<div align="center">
-
+<a href="https://github.com/Sumit4374?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-161B22?style=for-the-badge&logo=github" />
+</a>
 <a href="https://leetcode.com/u/SumitKush1323/">
-<img src="https://leetcard.jacoblin.cool/SumitKush1323?theme=dark&font=JetBrains%20Mono&ext=activity,contest&radius=8" alt="LeetCode Stats" />
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://www.linkedin.com/in/sumit-kushwaha-a97238331">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 </div>
 
 ---
 
-## 🔐 Cybersecurity & Systems
+## `01` · PROFILE
 
-Alongside software development, I am building practical cybersecurity fundamentals through Linux and networking work.
+I'm a **Computer Science & Engineering student at VIT Pune** focused on backend engineering and systems.
 
-- Network reconnaissance and port scanning with **Nmap**
-- Vulnerability assessment with **OpenVAS / Greenbone Vulnerability Management**
-- TCP/IP and network fundamentals
-- Linux administration and troubleshooting
-- Security concepts including **Zero Trust Architecture**
-- Interest in application security, authentication, and secure distributed systems
+I started with application development and gradually moved toward understanding what happens underneath: **service communication, messaging, concurrency, authentication, databases, networking, Linux, and system reliability**.
 
----
+I prefer building things that force me to understand the underlying engineering rather than just using a framework and moving on.
 
-## 📡 IoT & Hardware
-
-I also build embedded prototypes using microcontrollers and sensors.
-
-- ESP32 / ESP8266
-- Arduino
-- ESP32-CAM
-- Environmental and motion sensors
-- IoT telemetry with ThingSpeak
-- Smart environment and automation prototypes
+```text
+Primary       → Java / Spring Boot / Microservices
+Distributed   → Kafka / Concurrency / Messaging / Service Discovery
+Data          → PostgreSQL / MySQL / MongoDB / JPA-Hibernate
+Frontend      → React / TypeScript / Vite / Tailwind
+Systems       → Linux / Docker / CI-CD / Networking
+Security      → Application Security / Network Security / Vulnerability Assessment
+Exploration   → IoT / Python / Data Science / ML
+```
 
 ---
 
-## 📈 GitHub Stats
+## `02` · ENGINEERING STACK
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,maven" />
+
+`Java` `Spring Boot` `Spring Cloud`  
+`REST APIs` `Microservices` `Spring Security`  
+`JWT` `WebSockets` `API Gateway` `Eureka`
+
+</td>
+<td valign="top" width="50%">
+
+### Data & Persistence
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+`PostgreSQL` `MySQL` `MongoDB`  
+`JPA` `Hibernate` `SQL`  
+`Schema Design` `Relationships` `Query Optimization`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,tailwind" />
+
+`React` `TypeScript` `JavaScript`  
+`Vite` `Tailwind CSS` `HTML` `CSS`
+
+</td>
+<td valign="top">
+
+### Systems & DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,githubactions" />
+
+`Linux` `Docker` `Git` `GitHub Actions`  
+`Maven` `Postman` `Swagger / OpenAPI`
+
+</td>
+</tr>
+</table>
+
+### Security
+
+`TCP/IP` · `Network Security` · `Nmap` · `OpenVAS/GVM` · `Vulnerability Assessment` · `Linux Security` · `JWT` · `Secure API Design` · `Zero Trust`
+
+### Other
+
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `C/C++` · `Arduino` · `ESP32` · `ESP8266` · `ESP32-CAM` · `ThingSpeak`
+
+---
+
+## `03` · THINGS I'VE BUILT
+
+### `GetSocial` — Distributed Social Platform
+
+> A microservices-based social platform built to understand distributed backend architecture.
+
+| Layer | Technology |
+|---|---|
+| Services | Spring Boot Microservices |
+| Discovery | Eureka |
+| Gateway | Spring Cloud Gateway |
+| Messaging | Apache Kafka |
+| Database | PostgreSQL |
+| Real-time | WebSockets |
+| Security | JWT Authentication / Authorization |
+| Frontend | React + Vite + Tailwind |
+
+**What I learned:** service boundaries, asynchronous communication, authentication, API Gateway patterns, service discovery, event-driven architecture, and distributed-system trade-offs.
+
+---
+
+### `MiniKafka` — Building the Messaging Layer From Scratch
+
+A Java implementation inspired by the core ideas behind Kafka.
+
+```text
+Producer
+   │
+   ▼
+┌───────────┐
+│   Topic   │
+└─────┬─────┘
+      │
+ ┌────┴────┐
+ ▼         ▼
+P0        P1        ← partitions
+ │         │
+ ▼         ▼
+Consumer  Consumer
+```
+
+Exploring:
+
+- Topics and partitions
+- Offsets and message metadata
+- Producer / consumer flow
+- Concurrent processing
+- Multithreading
+- Custom message/protocol structures
+- Messaging-system internals
+
+---
+
+### `MiniSearchEngine` — Search & Data Structures
+
+Java project exploring indexing, searching, and the data structures behind a basic search engine.
+
+---
+
+### `Healthub / HealthcareAlly` — Healthcare Platform
+
+Healthcare-focused application where I contributed to the frontend and worked with the team on the overall system.
+
+Research work associated with the project was presented at **AIHW 2025**.
+
+---
+
+### `Task Manager` — MERN
+
+A full-stack project built while expanding beyond the Java ecosystem.
+
+`React` · `Node.js` · `Express` · `MongoDB` · `REST APIs`
+
+---
+
+## `04` · SECURITY LAB
+
+Cybersecurity is **not just a side topic** for me. I'm moving from introductory tooling toward deeper understanding of how systems fail and how they should be defended.
+
+### Current security direction
+
+```text
+Networking
+    ↓
+Protocol behaviour
+    ↓
+Attack surface & enumeration
+    ↓
+Vulnerability assessment
+    ↓
+Application security
+    ↓
+Identity & access control
+    ↓
+Secure distributed systems
+```
+
+### Going deeper into
+
+- Network protocols and traffic analysis
+- Vulnerability discovery and assessment
+- Linux security and system hardening
+- Web/API security
+- Authentication and authorization models
+- JWT security and session architecture
+- Secure microservices
+- Zero Trust Architecture
+- Network segmentation and defense strategies
+- Security monitoring and detection concepts
+
+### Practical tooling
+
+`Nmap` · `OpenVAS/GVM` · `Linux` · `Wireshark` · `Postman`
+
+The goal is to understand **why an attack works, what the underlying weakness is, how to detect it, and how to design the system so the weakness is harder to exploit.**
+
+---
+
+## `05` · CURRENTLY GOING DEEPER
+
+<table>
+<tr>
+<th>Area</th>
+<th>Current Direction</th>
+</tr>
+<tr>
+<td><b>Distributed Systems</b></td>
+<td>Kafka internals, concurrency, partitioning, delivery semantics, fault tolerance, service communication</td>
+</tr>
+<tr>
+<td><b>System Design</b></td>
+<td>Scalability, caching, queues, database architecture, consistency, reliability, failure handling</td>
+</tr>
+<tr>
+<td><b>Spring Backend</b></td>
+<td>Security, JPA/Hibernate internals, transactions, performance, integration testing, maintainable APIs</td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td>Docker, Compose, Linux, CI/CD, deployment workflows, cloud fundamentals</td>
+</tr>
+<tr>
+<td><b>Cybersecurity</b></td>
+<td>Deepening network security, application security, vulnerability research, secure architecture and defense</td>
+</tr>
+<tr>
+<td><b>DSA</b></td>
+<td>Consistent problem solving with emphasis on patterns, complexity and implementation quality</td>
+</tr>
+</table>
+
+---
+
+## `06` · DSA LOG
+
+I use DSA as a continuous engineering discipline rather than a one-time interview topic.
+
+`Arrays` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Sorting` · `Dynamic Programming`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sumit4374&show_icons=true&theme=react" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4374&layout=compact&theme=react" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sumit4374&theme=react" alt="GitHub Streak" />
+<a href="https://leetcode.com/u/SumitKush1323/">
+<img src="https://leetcard.jacoblin.cool/SumitKush1323?theme=dark&font=JetBrains%20Mono&ext=activity,contest&radius=8" alt="LeetCode profile" />
+</a>
 
 </div>
 
 ---
 
-## 🧭 Current Focus
+## `07` · RESEARCH & HARDWARE
 
-My current learning path is centered around becoming a stronger backend/software engineer:
+### Research
 
-- **Spring Security:** JWT, authorization, OAuth2 fundamentals
-- **Spring Data JPA:** pagination, specifications, query optimization
-- **Testing:** JUnit 5, MockMvc, integration testing, Testcontainers
-- **Distributed Systems:** Kafka, concurrency, fault tolerance, service communication
-- **System Design:** scalability, caching, databases, queues, consistency, API design
-- **DevOps:** Docker, CI/CD, Linux, deployment, and cloud fundamentals
-- **Cybersecurity:** application security, networking, vulnerability assessment
-- **DSA:** consistent LeetCode practice
+- **IEEE CCGE 2026** — Research work on an ESP32-based smart environmental monitoring system with dual display
+- **AIHW 2025** — Healthcare-focused research work associated with Healthub
 
----
+### IoT
 
-## 🤝 Connect
+`ESP32` · `ESP8266` · `Arduino` · `ESP32-CAM` · `DHT` · `MQ Sensors` · `PIR` · `ThingSpeak`
 
-- **GitHub:** [Sumit4374](https://github.com/Sumit4374)
-- **LeetCode:** [SumitKush1323](https://leetcode.com/u/SumitKush1323/)
-- **LinkedIn:** [Sumit Kushwaha](https://www.linkedin.com/in/sumit-kushwaha-a97238331)
-- **Email:** [kusumit437@gmail.com](mailto:kusumit437@gmail.com)
+I use hardware projects to understand the interaction between **sensors, embedded systems, networking, telemetry, and automation**.
 
 ---
+
+## `08` · GITHUB TELEMETRY
 
 <div align="center">
 
-### Build → Break → Understand → Improve
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit4374&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4374&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sumit4374&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+</div>
+
+---
+
+## `09` · FIND ME
+
+<div align="center">
+
+<a href="https://github.com/Sumit4374">GitHub</a> ·
+<a href="https://leetcode.com/u/SumitKush1323/">LeetCode</a> ·
+<a href="https://www.linkedin.com/in/sumit-kushwaha-a97238331">LinkedIn</a> ·
+<a href="mailto:kusumit437@gmail.com">Email</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│  build systems → break assumptions → learn  │
+│  → redesign → automate → repeat             │
+└──────────────────────────────────────────────┘
+```
 
 </div>
