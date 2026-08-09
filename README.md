@@ -293,16 +293,34 @@ I use hardware projects to understand the interaction between **sensors, embedde
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit4374&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4374&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<!-- GitHub Statistics -->
+<a href="https://github.com/Sumit4374">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumit4374&theme=github_dark"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+</a>
 
-<br/>
+<!-- Languages by Commit -->
+<a href="https://github.com/Sumit4374">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumit4374&theme=github_dark"
+    width="48%"
+    alt="Most Used Languages by Commit"
+  />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Sumit4374&hide_border=true&theme=transparent" alt="GitHub streak" />
+<br/><br/>
+
+<!-- Contribution Activity -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit4374&theme=github-dark&hide_border=true"
+  width="98%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
-
----
 
 ## `09` · FIND ME
 
